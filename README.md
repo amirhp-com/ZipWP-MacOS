@@ -67,15 +67,37 @@ These Quick Actions are designed to eliminate the hassle of manually removing un
 
 ### **Screenshots**
 
-![ZipWP in macOS Automator](shot1.png)
-_Figure 1: ZipWP in macOS Automator, carefully check everything be same_
+<table>
+  <tr>
+    <td align="center">
+      <a href="shot1.png">
+        <img src="shot1.png" height="200">
+      </a>
+      <br>
+      <em>Figure 1: ZipWP in macOS Automator</em>
+    </td>
+    <td align="center">
+      <a href="shot2.png">
+        <img src="shot2.png" height="200">
+      </a>
+      <br>
+      <em>Figure 2: ZipWP Quick Actions in Finder</em>
+    </td>
+    <td align="center">
+      <a href="shot3.png">
+        <img src="shot3.png" height="200">
+      </a>
+      <br>
+      <em>Figure 3: ZipWP Version Input Dialog</em>
+    </td>
+  </tr>
+</table>
 
 
-![ZipWP Quick Actions in Finder](shot2.png)
-_Figure 2: Quick Action Menu in Finder_
 
-![ZipWP Version Input Dialog](shot3.png)
-_Figure 3: Version Input Dialog_
+
+
+
 
 
 ## **Contributing**
@@ -90,16 +112,5 @@ Please make sure your code adheres to our guidelines and includes relevant tests
 
 ## **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Copyright 2024 Amirhossein Hosseinpour (Amirhp.Com)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-**Developed by [Amirhp.Com](https://Amirhp.Com/)**
